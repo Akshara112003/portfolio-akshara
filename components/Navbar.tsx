@@ -1,6 +1,5 @@
 "use client"
 
-import { li } from 'framer-motion/client'
 import Link from 'next/link'
 import React, { useState } from 'react'
 import { AiOutlineMenu, AiOutlineClose }  from 'react-icons/ai'
@@ -21,9 +20,9 @@ export const Navbar = () => {
         setNav(!nav)
     }
 
-    const closeNav = () => {
-        setNav(false)
-    }
+    // const closeNav = () => {
+    //     setNav(false)
+    // }
 
     return(
         <div className='z-50 fixed flex justify-center w-full text-white font-bold'>

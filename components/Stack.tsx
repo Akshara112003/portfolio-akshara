@@ -2,7 +2,6 @@ import React from "react";
 import { FaReact } from "react-icons/fa";
 import { SiAdobephotoshop } from "react-icons/si";
 import { SiAdobeillustrator } from "react-icons/si";
-import { TbBrandNextjs } from "react-icons/tb";
 import { SiHtml5 } from "react-icons/si";
 import { SiCss3 } from "react-icons/si";
 import { SiJavascript } from "react-icons/si";

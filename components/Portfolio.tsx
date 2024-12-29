@@ -8,7 +8,6 @@ import project4 from "@/assets/proj4.jpg"
 import project5 from "@/assets/proj5.png"
 import project6 from "@/assets/proj6.jpg"
 import project7 from "@/assets/proj7.png"
-import { div } from "framer-motion/client"
 import { useMotionTemplate, useMotionValue, motion, animate } from "framer-motion"
 
 const projects = [

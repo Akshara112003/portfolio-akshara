@@ -2,7 +2,6 @@
 
 import React from 'react';
 import { motion, useInView } from 'framer-motion'
-import { is } from '@react-three/fiber/dist/declarations/src/core/utils';
 
 const metrics = [
     {

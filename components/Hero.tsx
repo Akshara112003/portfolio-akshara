@@ -3,7 +3,6 @@ import profilepic from "@/assets/profilepic.png"
 import Image from "next/image"
 import obj from "@/assets/obj1.png"
 import { FiArrowRight } from "react-icons/fi"
-import {Canvas} from "@react-three/fiber"
 import { useMotionValue, animate, motion,  useMotionTemplate } from "framer-motion"
 import React, { useEffect } from "react"
 
